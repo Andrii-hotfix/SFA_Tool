@@ -5,7 +5,7 @@ enter steam account url you're interested in, then SFA_Bot will interate over yo
 and return the list which will contain the url of your friend and ammount of your mutual friends.
 
 ## uses:
-- Steam api,
+- Steam API
 - PyQt4
 - urllib
 
