@@ -1,7 +1,7 @@
 # SFA_Tool
 this tool created to analyze steam accounts;
 ## usage:
-enter steam account url you're interested in, then SFA_Boot will interate over your friends
+enter steam account url you're interested in, then SFA_Bot will interate over your friends
 and return the list which will contain the url of your friend and ammount of your mutual friends.
 
 ## uses:
