@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'SFA_url_entry.ui'
-#
-# Created by: PyQt4 UI code generator 4.12
-#
-# WARNING! All changes made in this file will be lost!
 from PyQt4 import QtCore, QtGui
 import sys
 import re
