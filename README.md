@@ -1,6 +1,6 @@
 # SFA_Tool
--this tool created to analyze steam accounts;
--to run this script you need to have Steam API key, which can be found at https://steamcommunity.com/login/home/?goto=%2Fdev%2Fapikey
+this tool created to analyze steam accounts;
+to run this script you need to have Steam API key, which can be found at https://steamcommunity.com/login/home/?goto=%2Fdev%2Fapikey
 if you have this key you need to enter it in SFA_Tool.pyw at line 143 instead of api_key_str
 
 ## usage:
