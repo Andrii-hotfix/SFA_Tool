@@ -140,7 +140,7 @@ def bot():
         user = sfa_tool.lineEdit.text()
         result = {}
         private = []
-        api_key = 'api_key_str' // enter your api key here (details in readme)
+        api_key = 'api_key_str' # enter your api key here (details in readme)
 
         if re.match(r"https?://steamcommunity.com/id/\w\/?", sfa_tool.lineEdit.text()):
             try:
