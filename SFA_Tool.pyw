@@ -109,8 +109,7 @@ class Ui_SFA_Tool(QtGui.QWidget):
         self.horizontalLayout_2 = QtGui.QHBoxLayout()
         self.horizontalLayout_2.setObjectName(_fromUtf8("horizontalLayout_2"))
         self.label = QtGui.QLabel(SFA_Tool)
-        font = QtGui.QFont()
-        font.setPointSize(12)
+        font = QtGui.QFont()        font.setPointSize(12)
         self.label.setFont(font)
         self.label.setAlignment(QtCore.Qt.AlignCenter)
         self.label.setObjectName(_fromUtf8("label"))
@@ -141,7 +140,7 @@ def bot():
         user = sfa_tool.lineEdit.text()
         result = {}
         private = []
-        api_key = '07814D6A28FF029D746FEB6450DBDFC5'
+        api_key = 'api_key_str' // enter your api key here (details in readme)
 
         if re.match(r"https?://steamcommunity.com/id/\w\/?", sfa_tool.lineEdit.text()):
             try:
