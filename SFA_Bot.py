@@ -1,7 +1,6 @@
 import urllib.request
 import json
 import re
-# import PyQt5
 
 
 def getUserId(user, api_key):
